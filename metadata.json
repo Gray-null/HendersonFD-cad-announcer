@@ -1,0 +1,7 @@
+{
+  "name": "Fire Dispatch Communicator",
+  "description": "A comprehensive tool for fire dispatchers to generate and announce calls based on EMS and fire protocols, featuring text-to-speech, custom prompts, and an accurate apparatus roster.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
